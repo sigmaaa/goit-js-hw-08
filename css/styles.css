@@ -6,6 +6,9 @@ ul {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 24px;
+    margin: auto;
+    padding: 0;
+    width: 80%;
 }
 .gallery-image {
     transition: all .8s ease;
